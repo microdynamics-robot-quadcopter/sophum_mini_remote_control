@@ -1,0 +1,8 @@
+#IDE config
+.vscode/
+
+
+#
+build/
+sdkconfig
+sdkconfig.old
